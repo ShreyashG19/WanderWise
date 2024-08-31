@@ -1,0 +1,8 @@
+
+@font-face {
+    font-family: afternoon;
+    src: url("/HomeFonts/bebas.otf");
+}
+*{
+    font-family: afternoon;
+}
